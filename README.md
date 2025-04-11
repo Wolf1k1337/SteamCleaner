@@ -17,9 +17,5 @@ This software is under development
 ### Contact
 
 
-[![twitter](https://img.shields.io/twitter/follow/andrewmd5.svg?style=social)](https://twitter.com/andrewmd5)
-
-[Website](https://andrew.im)
-
 ### Borderless Gaming
 
