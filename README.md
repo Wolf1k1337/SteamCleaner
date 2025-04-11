@@ -23,7 +23,3 @@ This software is under development
 
 ### Borderless Gaming
 
-Be sure to also check out [Borderless Gaming](http://store.steampowered.com/app/388080)
-
-[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
-[![forthebadge](http://forthebadge.com/images/badges/no-ragrets.svg)](http://forthebadge.com)
