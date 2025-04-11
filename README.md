@@ -7,14 +7,4 @@ This software is under development
 
 ### How to install and run Steam Cleaner
 
-#### Install from Releases
-
-
-- Run it
-
-
-### Contact
-
-
-### Borderless Gaming
 
